@@ -1,0 +1,6 @@
+###########################
+#  puzzle config          #
+###########################
+SIZE: 3
+MODE: TEST
+SCORE: pzScore.txt
